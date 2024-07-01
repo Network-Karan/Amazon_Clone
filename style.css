@@ -121,10 +121,10 @@ span {
 
 .panel-ops p {
     display: inline;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
-.panel ops {
+.panel-ops {
     width: 70%;
     font-size: 0.85rem;
 }
