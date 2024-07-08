@@ -161,10 +161,11 @@ span {
 
 .shop-section {
     display: flex;
+    justify-content: space-evenly;
 }
 
 .box {
     border: 2px solid black;
     height: 100px;
-    width: 25%
+    width: 20%
 }
