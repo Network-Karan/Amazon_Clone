@@ -176,3 +176,8 @@ span {
 .box-img {
     height: 300px;
 }
+
+.box-content {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
